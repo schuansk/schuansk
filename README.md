@@ -1,7 +1,7 @@
 ### Hello human, I'm Schuansk Torres 🖖
 
 - 🔭 I’m currently working on NodeJs
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me: schuansk2011@gmail.com
 
 ##
